@@ -1,41 +1,39 @@
 # 👋 Hi, I'm Mahfujur Rahman Fahim
 
-**Hardware Design & PCB Specialist** | Founder of **[Syzilo](https://syzilo.com/)**  
-*EEE Undergraduate @ Leading University | EEE 39th Batch CR | General Secretary, IEEE Student Branch*
+**Power Systems Researcher | Embedded Hardware & PCB**  
 
 ---
 
-### 🛠️ Tech Stack & Tools
-`PCB Design` **Altium Designer** • **KiCad** • **EasyEDA** • **Proteus**  
-`Microcontrollers` **STM32** • **ESP32** • **Arduino** (C/C++)  
-`Simulation & Math` **MATLAB** • **Simulink** • **AutoCAD Electrical** • **Pandapower** • **PyTorch**
+### 📌 About
+
+I am an Electrical & Electronic Engineering (EEE) student working at the intersection of Power System Research.
+
+* **Power Systems & AI:** Physics-informed ML (PINN, Q-PINN, PI-GNN), grid-forming control, transient signature characterization, and MQTT-driven microgrid digital twins.
+* **PCB & Hardware:** Component-level multi-layer PCB design (up to 10 layers) using KiCad, Altium, and Proteus, focusing on signal integrity and power regulation.
+* **Simulation & Automation:** MATLAB/Simulink and Python (Pandapower, PyTorch) co-simulation alongside industrial PLC, VFD, HMI, and AutoCAD Electrical logic.
+
+Always open to research and technical collaborations on smart grid automation, microgrid resilience, and embedded hardware development.
 
 ---
-
-### 📌 Overview & Details
 
 <details>
-<summary><b>💼 Experience & Field Engineering (বিস্তারিত দেখতে ক্লিক করুন)</b></summary>
+<summary><b>🎓 Education (Click to expand)</b></summary>
+ 
+* **B.Sc. in Electrical and Electronic Engineering** — Leading University
+</details>
 
-* **Founder & Technical Manager** @ Syzilo (2026 – Present)
+<details>
+<summary><b>💼 Experience (Click to expand)</b></summary>
+
+* **Founder & CEO** @ Syzilo (2026 – Present)
   * Engineering, assembly, and distribution of consumer electronics, mini UPS units, and rechargeable cooling solutions.
 * **Freelance PCB Specialist** @ Fiverr & Upwork (`mrf_pcb`)
   * Multi-layer PCB routing, signal integrity management, and embedded hardware design.
-* **Practical Field Engineering & HVAC Servicing**
-  * Hands-on technical servicing, fault diagnostics, and electromechanical maintenance for AC units and commercial refrigeration systems.
 </details>
 
-<details>
-<summary><b>🎓 Education & Certifications (বিস্তারিত দেখতে ক্লিক করুন)</b></summary>
-
-* **B.Sc. in Electrical and Electronic Engineering** — Leading University (Batch 39, CR)
-* 🏅 MATLAB Simulink Onramp Certification | MathWorks
-* 🏅 Advanced PCB Design & Embedded Systems
-* 🎓 Convocation Volunteer Leadership Certificate
-</details>
 
 <details>
-<summary><b>📚 Publications & Research (বিস্তারিত দেখতে ক্লিক করুন)</b></summary>
+<summary><b>📚 Publications & Research (Click to expand)</b></summary>
 
 * 📄 **ICISET 2026:** *Transient Signature Characterization and Mitigation of Protective Relay Blinding in Weak Distribution Networks with High Inverter-Based Resource Penetration*
 * 📄 **ICEEICT 2027 Submission:** *Explainable Physics-Aware Fault Diagnosis Under Telemetry Corruption: A CIGRE MV Benchmark Study*
@@ -56,5 +54,6 @@
 
 ### 📬 Connect With Me
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/mr.fahim2004)
 [<img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" />](https://www.fiverr.com/mrf_pcb)
 [<img src="https://img.shields.io/badge/Website-Syzilo-blue?style=for-the-badge" />](https://syzilo.com/)

@@ -63,10 +63,6 @@ Professional working proficiency
 **PCB**
 </details>
 
-<details>
-<summary><b>🎓Recommendations (Click to expand)</b></summary>
-[Recommendations](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/1774947538896/single-media-viewer/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bud2SdCXATD6zx5lEsK%2FBaQ%3D%3D)
- <details>
  --- 
 ### 🚀 Top Projects
 

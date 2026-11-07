@@ -49,16 +49,12 @@ Professional working proficiency
 * 📄 **ICEEICT 2027 Submission:** *Explainable Physics-Aware Fault Diagnosis Under Telemetry Corruption: A CIGRE MV Benchmark Study*
 </details>
 
----
-
 <details>
 <summary><b> Licenses & certifications (Click to expand)</b></summary>
  
 **[IEE Membership](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/606557944/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B44hDChE2RBeyuHTQWPKDDw%3D%3D)** 
 **[Advanced Robotics Course by SUST Autodrive](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/990468872/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BRtKFg%2FByRKy%2FziTG7HIJnQ%3D%3D)**
 </details>
-
----
 
 <details>
 <summary><b>🎓 Skills (Click to expand)</b></summary>

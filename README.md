@@ -23,11 +23,21 @@ Always open to research and technical collaborations on smart grid automation, m
 </details>
 
 <details>
+<summary><b> Languages (Click to expand)</b></summary>
+ 
+ **Bangla**
+Native or bilingual proficiency
+
+**English**
+Professional working proficiency
+</details>
+
+<details>
 <summary><b>💼 Experience (Click to expand)</b></summary>
 
-* **Founder & CEO** @ Syzilo (2026 – Present)
+* **[Founder & CEO](https://syzilo.com/)** @ Syzilo (2026 – Present)
   * Engineering, assembly, and distribution of consumer electronics, mini UPS units, and rechargeable cooling solutions.
-* **Freelance PCB Specialist** @ Fiverr & Upwork (`mrf_pcb`)
+* **Freelance PCB Specialist** @ [Fiverr](https://www.fiverr.com/mrf_pcb) & [Upwork](https://www.upwork.com/freelancers/~01e8aa44c270fedb77?mp_source=share) (`mrf_pcb`)
   * Multi-layer PCB routing, signal integrity management, and embedded hardware design.
 </details>
 
@@ -41,7 +51,28 @@ Always open to research and technical collaborations on smart grid automation, m
 
 ---
 
-### 🚀 Top Projects & Achievements
+<details>
+<summary><b> Licenses & certifications (Click to expand)</b></summary>
+ 
+**[IEE Membership](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/606557944/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B44hDChE2RBeyuHTQWPKDDw%3D%3D)** 
+**[Advanced Robotics Course by SUST Autodrive](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/990468872/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BRtKFg%2FByRKy%2FziTG7HIJnQ%3D%3D)**
+</details>
+
+---
+
+<details>
+<summary><b>🎓 Skills (Click to expand)</b></summary>
+ 
+**Research**
+**PCB**
+</details>
+
+<details>
+<summary><b>🎓Recommendations (Click to expand)</b></summary>
+[Recommendations](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/1774947538896/single-media-viewer/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bud2SdCXATD6zx5lEsK%2FBaQ%3D%3D)
+ <details>
+  
+### 🚀 Top Projects
 
 | Project / Recognition | Highlights |
 | :--- | :--- |
@@ -56,4 +87,4 @@ Always open to research and technical collaborations on smart grid automation, m
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/mr.fahim2004)
 [<img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" />](https://www.fiverr.com/mrf_pcb)
-[<img src="https://img.shields.io/badge/Website-Syzilo-blue?style=for-the-badge" />](https://syzilo.com/)
+[<img src="https://img.shields.io/badge/Syzilo-blue?style=for-the-badge" />](https://syzilo.com/)

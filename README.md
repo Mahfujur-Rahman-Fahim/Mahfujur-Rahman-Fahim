@@ -19,7 +19,7 @@ Always open to research and technical collaborations on smart grid automation, m
 <details>
 <summary><b>🎓 Education (Click to expand)</b></summary>
  
-* **B.Sc. in Electrical and Electronic Engineering** — Leading University
+* **B.Sc. in Electrical and Electronic Engineering** — Leading University, Sylhet, Bangladesh
 </details>
 
 <details>
@@ -34,7 +34,8 @@ Professional working proficiency
 
 <details>
 <summary><b>💼 Experience (Click to expand)</b></summary>
-
+* **Secretary General** — IEEE Leading University Student Branch
+ * **Class Representative (CR)** — Leading University
 * **[Founder & CEO](https://syzilo.com/)** @ Syzilo (2026 – Present)
   * Engineering, assembly, and distribution of consumer electronics, mini UPS units, and rechargeable cooling solutions.
 * **Freelance PCB Specialist** @ [Fiverr](https://www.fiverr.com/mrf_pcb) & [Upwork](https://www.upwork.com/freelancers/~01e8aa44c270fedb77?mp_source=share) (`mrf_pcb`)
@@ -53,6 +54,7 @@ Professional working proficiency
 <summary><b> Licenses & certifications (Click to expand)</b></summary>
  
 **[IEE Membership](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/606557944/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B44hDChE2RBeyuHTQWPKDDw%3D%3D)** 
+
 **[Advanced Robotics Course by SUST Autodrive](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/990468872/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BRtKFg%2FByRKy%2FziTG7HIJnQ%3D%3D)**
 </details>
 

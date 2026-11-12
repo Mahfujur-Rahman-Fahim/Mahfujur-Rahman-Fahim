@@ -34,11 +34,15 @@ Professional working proficiency
 
 <details>
 <summary><b>💼 Experience (Click to expand)</b></summary>
-* **Secretary General** — IEEE Leading University Student Branch
- * **Class Representative (CR)** — Leading University
-* **[Founder & CEO](https://syzilo.com/)** @ Syzilo (2026 – Present)
+ 
+**Secretary General** — IEEE Leading University Student Branch
+ 
+**Class Representative (CR)** — Leading University
+  
+**[Founder & CEO](https://syzilo.com/)** @ Syzilo (2026 – Present)
   * Engineering, assembly, and distribution of consumer electronics, mini UPS units, and rechargeable cooling solutions.
-* **Freelance PCB Specialist** @ [Fiverr](https://www.fiverr.com/mrf_pcb) & [Upwork](https://www.upwork.com/freelancers/~01e8aa44c270fedb77?mp_source=share) (`mrf_pcb`)
+    
+ **Freelance PCB Specialist** @ [Fiverr](https://www.fiverr.com/mrf_pcb) & [Upwork](https://www.upwork.com/freelancers/~01e8aa44c270fedb77?mp_source=share) (`mrf_pcb`)
   * Multi-layer PCB routing, signal integrity management, and embedded hardware design.
 </details>
 

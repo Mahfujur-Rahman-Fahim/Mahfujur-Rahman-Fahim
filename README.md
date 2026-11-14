@@ -35,11 +35,11 @@ Professional working proficiency
 <details>
 <summary><b>💼 Experience (Click to expand)</b></summary>
  
-**Secretary General** — IEEE Leading University Student Branch
+**Secretary General** — IEEE Leading University Student Branch (Present)
  
-**Class Representative (CR)** — Leading University
+**Class Representative (CR)** — Leading University (Present)
   
-**[Founder & CEO](https://syzilo.com/)** @ Syzilo (2026 – Present)
+**[Founder & CEO](https://syzilo.com/)** @ Syzilo (Present)
   * Engineering, assembly, and distribution of consumer electronics, mini UPS units, and rechargeable cooling solutions.
     
  **Freelance PCB Specialist** @ [Fiverr](https://www.fiverr.com/mrf_pcb) & [Upwork](https://www.upwork.com/freelancers/~01e8aa44c270fedb77?mp_source=share) (`mrf_pcb`)
@@ -60,6 +60,9 @@ Professional working proficiency
 **[IEE Membership](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/606557944/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B44hDChE2RBeyuHTQWPKDDw%3D%3D)** 
 
 **[Advanced Robotics Course by SUST Autodrive](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/990468872/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BRtKFg%2FByRKy%2FziTG7HIJnQ%3D%3D)**
+
+**[PCB Basic Design Course In Altium Education](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/1075195761/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BUCx6Ir4DTz2yvUdegU857w%3D%3D)**
+
 </details>
 
 <details>

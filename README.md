@@ -85,13 +85,27 @@ Professional working proficiency
 
 <details>
 <summary><b> Honors & awards (Click to expand)</b></summary>
+
+**[WINNER ON LFR COMPETITION](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Honor/55850286/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_honors_details%3BZAAgYzLTRyegokuEx9hetQ%3D%3D)**
+
+ **[2nd Runner-Up – Line Following Robot](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Honor/895681008/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxcNt8YvUTTiSgK9SsT37rw%3D%3D)**
  </details>
   
 <details>
 <summary><b>🎓 Skills (Click to expand)</b></summary>
  
 **Research**
-**PCB**
+**Robotics**
+**Printed Circuit Board (PCB) Design**
+**PLC,VFD,HMI in Industrial Automation**
+**MATLAB/Simulink**
+**LTSpice, Proteus**
+**AutoCAD**
+**Python, C, C++**
+**Leadership,Management**
+**Business**
+**Digital Marketing**
+**[Source Link](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/details/skills/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4GAbLrnaQomvipZTviqZvg%3D%3D)**
 </details>
 
  --- 
@@ -100,6 +114,7 @@ Professional working proficiency
 | Project / Recognition | Highlights |
 | :--- | :--- |
 | 💾 **[STM32MP157 10-Layer Linux MPU](https://github.com/Mahfujur-Rahman-Fahim/STM32MP157-10-Layer-Linux-MPU-Board)** | High-speed routing & DDR3L signal integrity |
+| **[Automatic Water Level Control System Design using PID Controller in Simulink](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/details/projects/edit/forms/56220690/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvfQjvLctS5S9uzuAVlyXPg%3D%3D)** |  
 | 🌐 **Earthquake Mitigation Architecture** | ESP32-C3 & MPU-6050 powered protective system |
 | 🤖 **Autonomous LFR (Deadly Dragons)** | Dual DRV8838 drivers; 3rd Place (2nd Runner-up) @ DRMC IT Club |
 | ⚡ **Smart Gas Leakage Detection PCB** | ESP32-C3 + LM2596 regulation + Omron relay driver |

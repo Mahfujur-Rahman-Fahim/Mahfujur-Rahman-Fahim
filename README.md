@@ -22,15 +22,6 @@ Always open to research and technical collaborations on smart grid automation, m
 * **B.Sc. in Electrical and Electronic Engineering** — Leading University, Sylhet, Bangladesh
 </details>
 
-<details>
-<summary><b> Languages (Click to expand)</b></summary>
- 
- **Bangla**
-Native or bilingual proficiency
-
-**English**
-Professional working proficiency
-</details>
 
 <details>
 <summary><b>💼 Experience (Click to expand)</b></summary>
@@ -118,6 +109,15 @@ Professional working proficiency
 **[Source Link](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/details/skills/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4GAbLrnaQomvipZTviqZvg%3D%3D)**
 </details>
 
+<details>
+<summary><b> Languages (Click to expand)</b></summary>
+ 
+ **Bangla**
+Native or bilingual proficiency
+
+**English**
+Professional working proficiency
+</details>
  --- 
 ### 🚀 Top Projects
 

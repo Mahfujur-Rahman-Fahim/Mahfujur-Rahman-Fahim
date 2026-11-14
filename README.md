@@ -57,9 +57,9 @@ Professional working proficiency
 <details>
 <summary><b> Licenses & certifications (Click to expand)</b></summary>
  
-**[IEE Membership](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/606557944/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B44hDChE2RBeyuHTQWPKDDw%3D%3D)** 
+**[IEEE Membership](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/606557944/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B44hDChE2RBeyuHTQWPKDDw%3D%3D)** 
 
-**[Advanced Robotics Course by SUST Autodrive](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/990468872/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BRtKFg%2FByRKy%2FziTG7HIJnQ%3D%3D)**
+**[Advanced Robotics Course by SUST Autodrive](https://drive.google.com/file/d/1KlMxXyDYyXMVOXno8ipBapMXHzcIfw6E/view?usp=sharing)**
 
 **[PCB Basic Design Course In Altium Education](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/1075195761/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BUCx6Ir4DTz2yvUdegU857w%3D%3D)**
 

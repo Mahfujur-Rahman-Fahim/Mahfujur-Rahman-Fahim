@@ -78,7 +78,7 @@ Always open to research and technical collaborations on smart grid automation, m
 
 **[WINNER ON LFR COMPETITION](https://drive.google.com/file/d/1rlgBthF3n6MqgKRuPabpifXZ2YWox1eX/view?usp=sharing)**
 
- **[2nd Runner-Up – Line Following Robot](https://drive.google.com/file/d/1cDdhfdkGCVLxtusdzPGMmcQy7zl0dFMI/view?usp=sharing)**
+ **[2nd Runner-Up – Line Following Robot](https://driv<img width="3508" height="2480" alt="LFR" src="https://github.com/user-attachments/assets/f7a25a2e-89b1-4df6-95be-724e53fb07b0" />)**
  </details>
   
 <details>

@@ -132,7 +132,7 @@ Professional working proficiency
 | **[Automatic Water Level Control System Design using PID Controller in Simulink](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/details/projects/edit/forms/56220690/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvfQjvLctS5S9uzuAVlyXPg%3D%3D)** |  
 | 🌐 **Earthquake Mitigation Architecture** | ESP32-C3 & MPU-6050 powered protective system |
 | 🤖 **Autonomous LFR (Deadly Dragons)** | Dual DRV8838 drivers; 3rd Place (2nd Runner-up) @ DRMC IT Club |
-| ⚡ **Smart Gas Leakage Detection PCB** | ESP32-C3 + LM2596 regulation + Omron relay driver |
+| ⚡ **[Smart Gas Leakage Detection & Automatic Shut-off System](https://github.com/Mahfujur-Rahman-Fahim/Smart-Gas-Leakage-Detection-and-Automatic-Shut-off-System-)** | ESP32-C3 + LM2596 regulation + Omron relay driver |
 
 ---
 

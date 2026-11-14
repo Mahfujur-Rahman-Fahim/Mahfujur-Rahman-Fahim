@@ -51,7 +51,7 @@ Professional working proficiency
 <summary><b>📚 Publications & Research (Click to expand)</b></summary>
 
 * 📄 **ICISET 2026:** *Transient Signature Characterization and Mitigation of Protective Relay Blinding in Weak Distribution Networks with High Inverter-Based Resource Penetration*
-* 📄 **ICEEICT 2027 Submission:** *Explainable Physics-Aware Fault Diagnosis Under Telemetry Corruption: A CIGRE MV Benchmark Study*
+* 📄 **ICEEICT 2027 Submission:** *Explainable Physics-Aware Fault.....................................................................*
 </details>
 
 <details>

@@ -89,11 +89,9 @@ Professional working proficiency
   
 <details>
 <summary><b>🎓 Skills (Click to expand)</b></summary>
- </details>
  
 **Research**
 **PCB**
-
 </details>
 
  --- 

@@ -91,7 +91,7 @@ Professional working proficiency
  **[2nd Runner-Up – Line Following Robot](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Honor/895681008/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_honors_details%3BTK6%2B1KY5RE6GJYnTzt2cPw%3D%3D)**
 <details>
  
-<details>
+
 <summary><b>🎓 Skills (Click to expand)</b></summary>
  
 **Research**

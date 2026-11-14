@@ -118,7 +118,7 @@ Native or bilingual proficiency
 **English**
 Professional working proficiency
 </details>
- --- 
+ 
  
 ### 🚀Top Projects
 

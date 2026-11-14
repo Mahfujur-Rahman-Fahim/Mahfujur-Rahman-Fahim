@@ -94,16 +94,27 @@ Professional working proficiency
 <summary><b>🎓 Skills (Click to expand)</b></summary>
  
 **Research**
+
 **Robotics**
+
 **Printed Circuit Board (PCB) Design**
+
 **PLC,VFD,HMI in Industrial Automation**
+
 **MATLAB/Simulink**
+
 **LTSpice, Proteus**
+
 **AutoCAD**
+
 **Python, C, C++**
+
 **Leadership,Management**
+
 **Business**
+
 **Digital Marketing**
+
 **[Source Link](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/details/skills/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4GAbLrnaQomvipZTviqZvg%3D%3D)**
 </details>
 

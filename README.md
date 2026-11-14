@@ -46,32 +46,91 @@ Always open to research and technical collaborations on smart grid automation, m
 </details>
 
 <details>
-<summary><b>📜Licenses & certifications (Click to expand)</b></summary>
- 
-**[IEEE Membership](https://drive.google.com/file/d/18o6-pvOuGRi9RITKkaaHjeoCcJd7HQYS/view?usp=sharing)** 
+<summary><b>📜 Licenses & Certifications (Click to expand)</b></summary>
 
-**[Advanced Robotics Course by SUST Autodrive](https://drive.google.com/file/d/1KlMxXyDYyXMVOXno8ipBapMXHzcIfw6E/view?usp=sharing)**
+  <details>
+  <summary><b>IEEE Membership (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="IEEE Membership" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[PCB Basic Design Course In Altium Education](https://drive.google.com/file/d/1TEViqbo5QFz4qGPOl3iG2OXYm3gpBjO7/view?usp=sharing)**
+  <details>
+  <summary><b>Advanced Robotics Course by SUST Autodrive (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="Advanced Robotics Course" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[Artificial Intelligence & Machine Learning Fundamentals](https://drive.google.com/file/d/12tm2uG2gQcU7kq4R8mlX7y-sbtPwTmux/view?usp=sharing)**
+  <details>
+  <summary><b>PCB Basic Design Course In Altium Education (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="PCB Basic Design Course" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[AutoCAD electrical essentials course](https://drive.google.com/file/d/10E2ajtZnsygd-a0RfXlDufsHITnE_NNl/view?usp=sharing)**
+  <details>
+  <summary><b>Artificial Intelligence & Machine Learning Fundamentals (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="AI & ML Fundamentals" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[30 Days Internship on PLC,VFD,HMI in Industrial Automation](https://drive.google.com/file/d/1HG2qtw_MaFJ5-Ehi7sOTPbHtmWcids04/view?usp=sharing)**
+  <details>
+  <summary><b>AutoCAD Electrical Essentials Course (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="AutoCAD Electrical Essentials" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[AutoCAD Electrical Drawing Course for Beginners](https://drive.google.com/file/d/1WkA0B4aGf2RxwE9pcdaVxwG15Gf893Jm/view?usp=sharing)**
+  <details>
+  <summary><b>30 Days Internship on PLC, VFD, HMI in Industrial Automation (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="PLC VFD HMI Internship" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[30 Days Internship on AutoCAD-2D Design.](https://drive.google.com/file/d/1VI5oy4EkinzElKGbxcHBPOHNi5l4eFHB/view?usp=sharing)**
+  <details>
+  <summary><b>AutoCAD Electrical Drawing Course for Beginners (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="AutoCAD Electrical Beginners" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[30 Days Internship on AutoCAD-3D Design.](https://drive.google.com/file/d/1_UVenZkYVUKWVTNnc0q4b94zWsiKWQDb/view?usp=sharing)**
+  <details>
+  <summary><b>30 Days Internship on AutoCAD-2D Design (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="AutoCAD 2D Design" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[Excel Essentials for Workplace Productivity](https://drive.google.com/file/d/1avl0gkJistmErZV6AWLNBbGuXkHZauSL/view?usp=sharing)**
+  <details>
+  <summary><b>30 Days Internship on AutoCAD-3D Design (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="AutoCAD 3D Design" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[Introduction to Python Programing](https://drive.google.com/file/d/1SUWVJjcdt7KCJfwRu-2p_GKRQxM38Fux/view?usp=sharing)**
+  <details>
+  <summary><b>Excel Essentials for Workplace Productivity (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="Excel Essentials" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
 
-**[PowerPoint Fundamentals](https://drive.google.com/file/d/15rIjxJtgj-UoaM28TTIUCWBwF7ojHgCb/view?usp=sharing)**
-</details>
+  <details>
+  <summary><b>Introduction to Python Programming (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="Python Programming" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
+
+  <details>
+  <summary><b>PowerPoint Fundamentals (Click to view certificate)</b></summary>
+  <br>
+  <img width="800" alt="PowerPoint Fundamentals" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  </details>
+
+</details>[SUST Autodrive.pdf](https://github.com/user-attachments/files/34860336/SUST.Autodrive.pdf)
+[certificate-of-completion-for-altium-education-cumulative-quiz.pdf](https://github.com/user-attachments/files/34860335/certificate-of-completion-for-altium-education-cumulative-quiz.pdf)
+[certificate-artificial-intelligence-and-machine-learning-fundamentals.pdf](https://github.com/user-attachments/files/34860334/certificate-artificial-intelligence-and-machine-learning-fundamentals.pdf)
+<img width="3417" height="2640" alt="certificate-1732202571336" src="https://github.com/user-attachments/assets/dd48ae60-fdfe-454e-85bf-7a55b7dce964" />
+<img width="3417" height="2640" alt="certificate-1728672316328" src="https://github.com/user-attachments/assets/26983514-1691-4295-aa0a-a2fd8a580079" />
+[Certificate_for_Mahfujur_Rahman_Fahim.pdf](https://github.com/user-attachments/files/34860332/Certificate_for_Mahfujur_Rahman_Fahim.pdf)
+[Certificate_for_Mahfujur_Rahman_Fahim (1).pdf](https://github.com/user-attachments/files/34860331/Certificate_for_Mahfujur_Rahman_Fahim.1.pdf)
+[Certificate_for_.pdf](https://github.com/user-attachments/files/34860329/Certificate_for_.pdf)
+[Certificate_for_ (1).pdf](https://github.com/user-attachments/files/34860328/Certificate_for_.1.pdf)
+[Certificate_10655_23_fs8lg.pdf](https://github.com/user-attachments/files/34860326/Certificate_10655_23_fs8lg.pdf)
+
 
 <details>
 <summary><b>🏆 Honors & Awards (Click to expand)</b></summary>

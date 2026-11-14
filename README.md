@@ -90,6 +90,8 @@ Always open to research and technical collaborations on smart grid automation, m
 
 **Printed Circuit Board (PCB) Design**
 
+**KiCAD, Altium, Expedition PCB**
+
 **PLC,VFD,HMI in Industrial Automation**
 
 **MATLAB/Simulink**
@@ -105,6 +107,8 @@ Always open to research and technical collaborations on smart grid automation, m
 **Business**
 
 **Digital Marketing**
+
+**Sales Management**
 
 **[Source Link](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/details/skills/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4GAbLrnaQomvipZTviqZvg%3D%3D)**
 </details>

@@ -119,7 +119,8 @@ Native or bilingual proficiency
 Professional working proficiency
 </details>
  --- 
-### 🚀 Top Projects
+ 
+### 🚀Top Projects
 
 | Project / Recognition | Highlights |
 | :--- | :--- |

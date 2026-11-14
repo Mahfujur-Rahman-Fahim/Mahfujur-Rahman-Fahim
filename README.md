@@ -70,13 +70,16 @@ Professional working proficiency
 **[30 Days Internship on PLC,VFD,HMI in Industrial Automation](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/2116257145/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BuoSG1oTHSISRV%2Bo2WTvXtQ%3D%3D)**
 
 **[30 Days Internship on AutoCAD Electrical Design & Drafting](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/1331887198/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BkXvye7ymS0u7IT7E0uUYSw%3D%3D)**
+
 **[30 Days Internship on AutoCAD-2D Design.](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/1331887198/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BriiBzPf%2BQ6K9fSxUsbw9PQ%3D%3D)**
+
 **[30 Days Internship on AutoCAD-3D Design.](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/1331887198/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BgkNHyRa3RsW57sljbTDkug%3D%3D)**
 
 
 **[Excel Essentials for Workplace Productivity](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/1995910845/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BntoxEe%2BOTtmTNgSDDQIlww%3D%3D)**
 
 **[Introduction to Python Programing](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/2133402916/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOdp6fRbBT7qGwNebJ9NtWQ%3D%3D)**
+
 **[PowerPoint Fundamentals](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/2133402916/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BIoh0ImtnTQe4yx7AEDKRCQ%3D%3D)**
 
 </details>

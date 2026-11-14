@@ -83,6 +83,7 @@ Professional working proficiency
 **[PowerPoint Fundamentals](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/overlay/Certifications/2133402916/treasury/?profileId=ACoAAFHhDXIB3z_P27804qpuyLdfBvkuvTm2p2w&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BIoh0ImtnTQe4yx7AEDKRCQ%3D%3D)**
 </details>
 
+<summary><b>🎓 Skills (Click to expand)</b></summary>
  
 <details>
 <summary><b>🎓 Skills (Click to expand)</b></summary>

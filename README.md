@@ -78,11 +78,17 @@ Always open to research and technical collaborations on smart grid automation, m
 <details>
 <summary><b>🏆 Honors & Awards (Click to expand)</b></summary>
 
-### WINNER ON LFR COMPETITION
-<img width="1286" height="909" alt="LFR1" src="https://github.com/user-attachments/assets/52ec42e4-a4cc-454b-a39e-c2257214adeb" />
+  <details>
+  <summary><b>🥇 WINNER ON LFR COMPETITION (Click to view certificate)</b></summary>
+  <br>
+  <img width="1286" height="909" alt="LFR1" src="https://github.com/user-attachments/assets/52ec42e4-a4cc-454b-a39e-c2257214adeb" />
+  </details>
 
-### 2nd Runner-Up - Line Following Robot
-<img width="3508" height="2480" alt="LFR" src="https://github.com/user-attachments/assets/68bf08cd-4fcd-4ce1-98a8-2454890d63bc" />
+  <details>
+  <summary><b>🥈 2nd Runner-Up - Line Following Robot (Click to view certificate)</b></summary>
+  <br>
+ <img width="3508" height="2480" alt="LFR" src="https://github.com/user-attachments/assets/68bf08cd-4fcd-4ce1-98a8-2454890d63bc" />
+  </details>
 
 </details>
 

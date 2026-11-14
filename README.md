@@ -46,7 +46,7 @@ Always open to research and technical collaborations on smart grid automation, m
 </details>
 
 <details>
-<summary><b> Licenses & certifications (Click to expand)</b></summary>
+<summary><b>📜Licenses & certifications (Click to expand)</b></summary>
  
 **[IEEE Membership](https://drive.google.com/file/d/18o6-pvOuGRi9RITKkaaHjeoCcJd7HQYS/view?usp=sharing)** 
 
@@ -74,7 +74,7 @@ Always open to research and technical collaborations on smart grid automation, m
 </details>
 
 <details>
-<summary><b> Honors & awards (Click to expand)</b></summary>
+<summary><b>🏆Honors & awards (Click to expand)</b></summary>
 
 **[WINNER ON LFR COMPETITION](https://drive.google.com/file/d/1rlgBthF3n6MqgKRuPabpifXZ2YWox1eX/view?usp=sharing)**
 
@@ -82,7 +82,7 @@ Always open to research and technical collaborations on smart grid automation, m
  </details>
   
 <details>
-<summary><b>🎓 Skills (Click to expand)</b></summary>
+<summary><b>🛠️Skills (Click to expand)</b></summary>
  
 **Research**
 
@@ -110,7 +110,7 @@ Always open to research and technical collaborations on smart grid automation, m
 </details>
 
 <details>
-<summary><b> Languages (Click to expand)</b></summary>
+<summary><b>🌐Languages (Click to expand)</b></summary>
  
  **Bangla**
 Native or bilingual proficiency

@@ -1,5 +1,3 @@
-<img width="1286" height="909" alt="LFR1" src="https://github.com/user-attachments/assets/52ec42e4-a4cc-454b-a39e-c2257214adeb" />
-<img width="3508" height="2480" alt="LFR" src="https://github.com/user-attachments/assets/68bf08cd-4fcd-4ce1-98a8-2454890d63bc" />
 # 👋 Hi, I'm Mahfujur Rahman Fahim
 
 **Power Systems Researcher | Embedded Hardware & PCB**  

@@ -89,7 +89,6 @@ Always open to research and technical collaborations on smart grid automation, m
   <summary><b>AutoCAD Electrical Drawing Course for Beginners (Click to view certificate)</b></summary>
   <br>
  <img width="3417" height="2640" alt="certificate-1732202571336" src="https://github.com/user-attachments/assets/58e79c90-202b-4005-ba29-1ec2e9cbdb66" />
-
   </details>
 
   <details>
@@ -120,6 +119,7 @@ Always open to research and technical collaborations on smart grid automation, m
   <summary><b>PowerPoint Fundamentals (Click to view certificate)</b></summary>
   <br>
   <img width="1650" height="1275" alt="PowerPoint_page-0001" src="https://github.com/user-attachments/assets/fbb8a9b4-0c9d-4fcf-974b-c301d0159b3b" />
+   
   </details>
 
 
@@ -136,6 +136,7 @@ Always open to research and technical collaborations on smart grid automation, m
   <summary><b>🥈 2nd Runner-Up - Line Following Robot (Click to view certificate)</b></summary>
   <br>
  <img width="3508" height="2480" alt="LFR" src="https://github.com/user-attachments/assets/68bf08cd-4fcd-4ce1-98a8-2454890d63bc" />
+   
   </details>
 
   
@@ -169,6 +170,7 @@ Always open to research and technical collaborations on smart grid automation, m
 **Sales Management**
 
 **[Source Link](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/details/skills/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4GAbLrnaQomvipZTviqZvg%3D%3D)**
+
 </details>
 
 <details>

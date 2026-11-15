@@ -119,9 +119,8 @@ Always open to research and technical collaborations on smart grid automation, m
   <summary><b>PowerPoint Fundamentals (Click to view certificate)</b></summary>
   <br>
   <img width="1650" height="1275" alt="PowerPoint_page-0001" src="https://github.com/user-attachments/assets/fbb8a9b4-0c9d-4fcf-974b-c301d0159b3b" />
-   
   </details>
-
+</details>
 
 <details>
 <summary><b>🏆 Honors & Awards (Click to expand)</b></summary>

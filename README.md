@@ -122,17 +122,6 @@ Always open to research and technical collaborations on smart grid automation, m
   <img width="1650" height="1275" alt="PowerPoint_page-0001" src="https://github.com/user-attachments/assets/fbb8a9b4-0c9d-4fcf-974b-c301d0159b3b" />
   </details>
 
-<img width="1755" height="1241" alt="SUST Autodrive_page-0001" src="https://github.com/user-attachments/assets/8d9dda8b-d182-429e-8452-278c9b01a1bd" />
-<img width="1650" height="1275" alt="Python_page-0001" src="https://github.com/user-attachments/assets/880a8b30-0442-43cc-ae31-5079bf3cd916" />
-<img width="1650" height="1275" alt="PowerPoint_page-0001" src="https://github.com/user-attachments/assets/fbb8a9b4-0c9d-4fcf-974b-c301d0159b3b" />
-<img width="1650" height="1275" alt="PLC_page-0001" src="https://github.com/user-attachments/assets/a2011f2a-f7ef-404b-b0b8-b5d09013f070" />
-<img width="1755" height="1242" alt="Exel_page-0001" src="https://github.com/user-attachments/assets/4b1e4ced-da52-4f01-ac21-01d9ab3a6345" />
-<img width="1240" height="1754" alt="AutoCad_page-0001" src="https://github.com/user-attachments/assets/147eddde-5f1e-42c1-8ebb-348653f9bafe" />
-<img width="1650" height="1275" alt="AtuCad 3D_page-0001" src="https://github.com/user-attachments/assets/43cc3a61-c6cd-47d2-8a81-2d1eef63cfa6" />
-<img width="1650" height="1275" alt="AtuCad 2D_page-0001" src="https://github.com/user-attachments/assets/223dc4c7-99cf-47f2-b025-fdcfd4d66f4d" />
-<img width="4000" height="2255" alt="artificial-intelligence-and-machine-learning-fundamentals_page-0001" src="https://github.com/user-attachments/assets/4c2a401a-4f46-436b-9ae9-cbe2b82ed1c1" />
-<img width="1250" height="922" alt="altium_page-0001" src="https://github.com/user-attachments/assets/614f05ce-da3e-4bb4-a232-3d2f9df9d83f" />
-
 
 <details>
 <summary><b>🏆 Honors & Awards (Click to expand)</b></summary>

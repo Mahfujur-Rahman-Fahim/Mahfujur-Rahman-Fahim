@@ -51,85 +51,87 @@ Always open to research and technical collaborations on smart grid automation, m
   <details>
   <summary><b>IEEE Membership (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="IEEE Membership" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+ <img width="1755" height="1240" alt="IEEE_page-0001" src="https://github.com/user-attachments/assets/4db245e7-6178-4867-b2ef-51b28ab76b8b" />
   </details>
 
   <details>
   <summary><b>Advanced Robotics Course by SUST Autodrive (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="Advanced Robotics Course" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  <img width="1755" height="1241" alt="SUST Autodrive_page-0001" src="https://github.com/user-attachments/assets/8d9dda8b-d182-429e-8452-278c9b01a1bd" />
   </details>
 
   <details>
   <summary><b>PCB Basic Design Course In Altium Education (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="PCB Basic Design Course" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  <img width="1250" height="922" alt="altium_page-0001" src="https://github.com/user-attachments/assets/614f05ce-da3e-4bb4-a232-3d2f9df9d83f" />
+
   </details>
 
   <details>
   <summary><b>Artificial Intelligence & Machine Learning Fundamentals (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="AI & ML Fundamentals" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  <img width="4000" height="2255" alt="artificial-intelligence-and-machine-learning-fundamentals_page-0001" src="https://github.com/user-attachments/assets/4c2a401a-4f46-436b-9ae9-cbe2b82ed1c1" />
   </details>
 
   <details>
   <summary><b>AutoCAD Electrical Essentials Course (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="AutoCAD Electrical Essentials" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  <img width="1240" height="1754" alt="AutoCad_page-0001" src="https://github.com/user-attachments/assets/147eddde-5f1e-42c1-8ebb-348653f9bafe" />
   </details>
 
   <details>
   <summary><b>30 Days Internship on PLC, VFD, HMI in Industrial Automation (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="PLC VFD HMI Internship" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  <img width="1650" height="1275" alt="PLC_page-0001" src="https://github.com/user-attachments/assets/a2011f2a-f7ef-404b-b0b8-b5d09013f070" />
   </details>
 
   <details>
   <summary><b>AutoCAD Electrical Drawing Course for Beginners (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="AutoCAD Electrical Beginners" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+ <img width="3417" height="2640" alt="certificate-1732202571336" src="https://github.com/user-attachments/assets/58e79c90-202b-4005-ba29-1ec2e9cbdb66" />
+
   </details>
 
   <details>
   <summary><b>30 Days Internship on AutoCAD-2D Design (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="AutoCAD 2D Design" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  <img width="1650" height="1275" alt="AtuCad 2D_page-0001" src="https://github.com/user-attachments/assets/223dc4c7-99cf-47f2-b025-fdcfd4d66f4d" />
   </details>
 
   <details>
   <summary><b>30 Days Internship on AutoCAD-3D Design (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="AutoCAD 3D Design" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+ <img width="1650" height="1275" alt="AtuCad 3D_page-0001" src="https://github.com/user-attachments/assets/43cc3a61-c6cd-47d2-8a81-2d1eef63cfa6" />
   </details>
 
   <details>
   <summary><b>Excel Essentials for Workplace Productivity (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="Excel Essentials" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  <img width="1755" height="1242" alt="Exel_page-0001" src="https://github.com/user-attachments/assets/4b1e4ced-da52-4f01-ac21-01d9ab3a6345" />
   </details>
 
   <details>
   <summary><b>Introduction to Python Programming (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="Python Programming" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+ <img width="1650" height="1275" alt="Python_page-0001" src="https://github.com/user-attachments/assets/880a8b30-0442-43cc-ae31-5079bf3cd916" />
   </details>
 
   <details>
   <summary><b>PowerPoint Fundamentals (Click to view certificate)</b></summary>
   <br>
-  <img width="800" alt="PowerPoint Fundamentals" src="YOUR_CERTIFICATE_IMAGE_URL_HERE" />
+  <img width="1650" height="1275" alt="PowerPoint_page-0001" src="https://github.com/user-attachments/assets/fbb8a9b4-0c9d-4fcf-974b-c301d0159b3b" />
   </details>
 
-</details>[SUST Autodrive.pdf](https://github.com/user-attachments/files/34860336/SUST.Autodrive.pdf)
-[certificate-of-completion-for-altium-education-cumulative-quiz.pdf](https://github.com/user-attachments/files/34860335/certificate-of-completion-for-altium-education-cumulative-quiz.pdf)
-[certificate-artificial-intelligence-and-machine-learning-fundamentals.pdf](https://github.com/user-attachments/files/34860334/certificate-artificial-intelligence-and-machine-learning-fundamentals.pdf)
-<img width="3417" height="2640" alt="certificate-1732202571336" src="https://github.com/user-attachments/assets/dd48ae60-fdfe-454e-85bf-7a55b7dce964" />
-<img width="3417" height="2640" alt="certificate-1728672316328" src="https://github.com/user-attachments/assets/26983514-1691-4295-aa0a-a2fd8a580079" />
-[Certificate_for_Mahfujur_Rahman_Fahim.pdf](https://github.com/user-attachments/files/34860332/Certificate_for_Mahfujur_Rahman_Fahim.pdf)
-[Certificate_for_Mahfujur_Rahman_Fahim (1).pdf](https://github.com/user-attachments/files/34860331/Certificate_for_Mahfujur_Rahman_Fahim.1.pdf)
-[Certificate_for_.pdf](https://github.com/user-attachments/files/34860329/Certificate_for_.pdf)
-[Certificate_for_ (1).pdf](https://github.com/user-attachments/files/34860328/Certificate_for_.1.pdf)
-[Certificate_10655_23_fs8lg.pdf](https://github.com/user-attachments/files/34860326/Certificate_10655_23_fs8lg.pdf)
+<img width="1755" height="1241" alt="SUST Autodrive_page-0001" src="https://github.com/user-attachments/assets/8d9dda8b-d182-429e-8452-278c9b01a1bd" />
+<img width="1650" height="1275" alt="Python_page-0001" src="https://github.com/user-attachments/assets/880a8b30-0442-43cc-ae31-5079bf3cd916" />
+<img width="1650" height="1275" alt="PowerPoint_page-0001" src="https://github.com/user-attachments/assets/fbb8a9b4-0c9d-4fcf-974b-c301d0159b3b" />
+<img width="1650" height="1275" alt="PLC_page-0001" src="https://github.com/user-attachments/assets/a2011f2a-f7ef-404b-b0b8-b5d09013f070" />
+<img width="1755" height="1242" alt="Exel_page-0001" src="https://github.com/user-attachments/assets/4b1e4ced-da52-4f01-ac21-01d9ab3a6345" />
+<img width="1240" height="1754" alt="AutoCad_page-0001" src="https://github.com/user-attachments/assets/147eddde-5f1e-42c1-8ebb-348653f9bafe" />
+<img width="1650" height="1275" alt="AtuCad 3D_page-0001" src="https://github.com/user-attachments/assets/43cc3a61-c6cd-47d2-8a81-2d1eef63cfa6" />
+<img width="1650" height="1275" alt="AtuCad 2D_page-0001" src="https://github.com/user-attachments/assets/223dc4c7-99cf-47f2-b025-fdcfd4d66f4d" />
+<img width="4000" height="2255" alt="artificial-intelligence-and-machine-learning-fundamentals_page-0001" src="https://github.com/user-attachments/assets/4c2a401a-4f46-436b-9ae9-cbe2b82ed1c1" />
+<img width="1250" height="922" alt="altium_page-0001" src="https://github.com/user-attachments/assets/614f05ce-da3e-4bb4-a232-3d2f9df9d83f" />
 
 
 <details>

@@ -135,7 +135,7 @@ Always open to research and technical collaborations on smart grid automation, m
   <summary><b>🥈 2nd Runner-Up - Line Following Robot (Click to view certificate)</b></summary>
   <br>
  <img width="3508" height="2480" alt="LFR" src="https://github.com/user-attachments/assets/68bf08cd-4fcd-4ce1-98a8-2454890d63bc" />
-   
+   </details>
   </details>
 
   

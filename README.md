@@ -197,7 +197,7 @@ Professional working proficiency
 
 ## 🌐 Digital Presence & Platforms
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahfujur-rahman-fahim-3aa073324/)
-[<img src="https://img.shields.io/badge/ResearchGate-#00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />](https://www.researchgate.net/profile/Mahfujur-Rahman-Fahim)
+[<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />](https://www.researchgate.net/profile/Mahfujur-Rahman-Fahim)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/mr.fahim2004)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />](https://www.youtube.com/channel/UCmhLDRxYL4N6-P2CVyJ3ZTQ)
 [<img src="https://img.shields.io/badge/Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white" />](https://www.fiverr.com/mrf_pcb)
